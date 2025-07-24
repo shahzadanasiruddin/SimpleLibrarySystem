@@ -1,2 +1,14 @@
-# SimpleLibrarySystem
-SimpleLibrarySystem is a basic C++ console application for managing a small library. It allows users to add, borrow, return, display, and search for books using a simple menu-driven interface. This beginner-friendly project demonstrates the use of arrays, structures, and input/output operations in C++.
+Features:
+
+Add new books
+
+Borrow and return books
+
+Display available or all books
+
+Search books by title
+
+Tech: Written in C++ using basic data structures and console I/O
+
+Use Case: Ideal for beginners learning C++ or practicing console applications
+
